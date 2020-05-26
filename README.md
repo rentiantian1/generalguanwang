@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Nuxt.js with ThinkJS
 
@@ -48,3 +49,6 @@ pm2 startOrReload pm2.json
 
 ## Tips
 
+=======
+# generalguanwang
+>>>>>>> dc5fe4fd0344531c638aaba6f6992c40afa9d6bc
